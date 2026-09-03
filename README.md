@@ -331,8 +331,8 @@ Dr. Well was developed as a Final Year Project for the degree of BS Computer Sci
 **Memoona Abbas** — BSCS-M2-22-21
 
 ```text
-[GitHub Profile]
-[LinkedIn Profile]
+[GitHub Profile](https://github.com/memoonaabbas)
+[LinkedIn Profile](https://www.linkedin.com/in/memoona-abbas-b88555293/)
 ```
 
 ---
