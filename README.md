@@ -249,22 +249,22 @@ The report mentions a test account (`test_patient` / `test123`) used during deve
 ## Screenshots
 
 ### Sign Up
-![Sign Up](screenshots/signup-screen.jpeg)
+![Sign Up](/signup-screen.jpeg)
 
 ### Patient Dashboard
-![Patient Dashboard](screenshots/patient-dashboard.jpeg)
+![Patient Dashboard](/patient-dashboard.jpeg)
 
 ### AI Medical Consultation
-![AI Chatbot](screenshots/ai-chatbot.jpeg)
+![AI Chatbot](/ai-chatbot.jpeg)
 
 ### Find a Doctor
-![Doctor Listing](screenshots/doctor-listing.jpeg)
+![Doctor Listing](/doctor-listing.jpeg)
 
 ### Book Appointment
-![Appointment Booking](screenshots/appointment-booking.jpeg)
+![Appointment Booking](/appointment-booking.jpeg)
 
 ### My Appointments
-![Appointment Tracker](screenshots/appointment-tracker.jpeg)
+![Appointment Tracker](/appointment-tracker.jpeg)
 
 > The report also includes architecture, ER, and flow diagrams (e.g., System Architecture, Entity Relationship Diagram, Use Case Diagram) which are design diagrams rather than app screenshots. These aren't included here — add them separately under a "Design Diagrams" section if you'd like them in the repo too.
 
